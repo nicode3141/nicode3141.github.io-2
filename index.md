@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Samsung Galaxy J3 (2017) Display austauschen
 
-You can use the [editor on GitHub](https://github.com/nicode3141/nicode3141.github.io-2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Stellen sie sicher , dass das Handy ausgeschaltet ist 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. Erhitzen sie das Display (Front) 
 
-### Markdown
+### 2. Nehmen sie ein Plactron zur Hand und trennen damit das Display vom Gehäuse 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3. Schließen sie die schwarze Kappe vom Displaykabel ab und ziehen das Kabel heraus 
 
-```markdown
-Syntax highlighted code block
+### 4. Nehmen sie das [Ersatzdisplay](https://www.ebay.de/i/173946267372?chn=ps&norover=1&mkevt=1&mkrid=707-134425-41852-0&mkcid=2&itemid=173946267372&targetid=888516359244&device=c&mktype=pla&googleloc=9068378&poi=&campaignid=1669295758&mkgroupid=90992276282&rlsatarget=pla-888516359244&abcId=1139676&merchantid=7364532&gclid=Cj0KCQiA4sjyBRC5ARIsAEHsELH3X89DWWRiyRs3m_hxdU9AnkYq-M6jDjrHMIGCAuZhnXi36qVPDCAaAmu8EALw_wcB) und verbinden sie das Kabel mit dem Gehäuse 
 
-# Header 1
-## Header 2
-### Header 3
+### 5. Kleben sie das Display an das Gehäuse (am besten erhitzbaren Kleber verwenden) 
 
-- Bulleted
-- List
+### 6. Nun können sie das Display verwenden 
 
-1. Numbered
-2. List
+#### weitere Links :
 
-**Bold** and _Italic_ and `Code` text
+- [Samsung Galaxy J3 (2017) Display entfernen](https://nicode3141.github.io/nicode3141.github.io-1/) 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicode3141/nicode3141.github.io-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
